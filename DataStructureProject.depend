@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647529172 source:e:\iti scholarship 3 months diploma\lab assignments\iti-algorithms & data structures\datastructureproject\datastructureproject\main.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+
